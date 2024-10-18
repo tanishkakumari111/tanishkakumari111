@@ -11,7 +11,7 @@ I'm currently pursuing Computer Science Engineering in NIT Srinagar. I really en
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://tanishkakumari.github.io/](http://portfolio.com)
 * ✉️  You can contact me at [tanishka19674@gmail.com](mailto:tanishka19674@gmail.com)
-* 🚀  I'm currently working on [Data Structure and Algorithm](http://github.com/vikram-kangotra/DSalgo)
+* 🚀  I'm currently working on [AI-Gym-Trainer](https://github.com/tanishkakumari111/AI-Gym-Trainer)
 * 🧠  I'm learning DSA
 * 🤝  I'm open to collaborating on Artificial Intelligence and Machine Learning Projects
 
@@ -26,17 +26,17 @@ I'm currently pursuing Computer Science Engineering in NIT Srinagar. I really en
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/TanishkaKumari" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishkaKumari&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align='right' height=400/></a>
+<a href="https://github.com/tanishkakumari111" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkakumari111&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align='right' height=400/></a>
 
-<a href="http://www.github.com/TanishkaKumari"><img src="https://github-readme-stats.vercel.app/api?username=TanishkaKumari&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="TanishkaKumari's GitHub stats" /></a>
+<a href="http://www.github.com/tanishkakumari111"><img src="https://github-readme-stats.vercel.app/api?username=tanishkakumari111&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="TanishkaKumari's GitHub stats" /></a>
 
-<a href="http://www.github.com/TanishkaKumari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishkaKumari&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/tanishkakumari111"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishkakumari111&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/TanishkaKumari"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TanishkaKumari&bg_color=22272e&color=ffffff&line=22c55e&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/tanishkakumari111"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tanishkakumari111&bg_color=22272e&color=ffffff&line=22c55e&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/TanishkaKumari/AI-Gym-Trainer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TanishkaKumari&repo=AI-Gym-Trainer&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/tanishkakumari111/AI-Gym-Trainer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanishkakumari111&repo=AI-Gym-Trainer&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<a href="https://www.github.com/TanishkaKumari" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TanishkaKumari?logo=github&style=for-the-badge&color=22c55e&labelColor=22272e" align='right'/></a>
+<a href="https://www.github.com/tanishkakumari111" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/tanishkakumari111?logo=github&style=for-the-badge&color=22c55e&labelColor=22272e" align='right'/></a>
